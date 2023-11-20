@@ -26,3 +26,8 @@ yarn install
 -   Ollama installed and running locally
 -   Playwright installed with Chromium browser
 -   Llama 2 model downloaded via Ollama
+
+## Usage
+```bash
+ts-node index.ts "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+```
