@@ -20,3 +20,9 @@ npm install
 
 # Using yarn
 yarn install
+```
+
+## Pre-requisites
+-   Ollama installed and running locally
+-   Playwright installed with Chromium browser
+-   Llama 2 model downloaded via Ollama
